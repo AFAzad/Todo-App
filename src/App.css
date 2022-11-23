@@ -23,6 +23,16 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.add-items{
+  align-items: center;
+  height: 30px;
+  color: black;
+  background-color: rgb(128, 206, 202);
+}
+.show-item{
+display: inline;
+  align-items: center;
+}
 
 .App-link {
   color: #61dafb;
